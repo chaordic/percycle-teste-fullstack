@@ -2,6 +2,8 @@
 
 Escolha um dos dois pontos para desenvolvimento dependendo da sua preferência. Fazer os dois integrados entre si é um Bônus🏅.
 
+O teste deve ser feito no github ou similar em repositório publico e ser compartilhar o link quando finalizado. Caso não utilize nenhum desses serviços online pode ser enviado um .zip com o projeto incluindo a pasta .git.
+
 ## 1. API JSON RESTful
 
 Desenvolver uma API com o CRUD de um modelo de Usuário. Para a persistência dos dados pode ser utilizado qualquer banco de dados, arquivo ou memória. Utilizar MongoDB é um Bônus🏅.
