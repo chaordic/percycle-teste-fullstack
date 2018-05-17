@@ -12,7 +12,7 @@ Deve ser utilizado os métodos HTTP GET, POST, PUT, PATCH e DELETE.
 
 ## 2. Interface para acesso de dados 
 
-Desenvolver a interface para suportar o CRUD do modelo de Usuário. As telas pode ser feita com um template simples Bootstrap ou de qualquer outro framework. O sistema deve ser desenvolvido como um SPA utilizando algum dos frameworks Javascript. Desenvolver com Vue.js é um Bônus🏅.
+Desenvolver a interface para suportar o CRUD do modelo de Usuário. As telas podem ser feita com um template simples Bootstrap ou de qualquer outro framework. O sistema deve ser desenvolvido como um SPA utilizando algum dos frameworks Javascript. Desenvolver com Vue.js é um Bônus🏅.
 
 Para a persistência dos dados pode ser utilizado qualquer coisa até mesmo o localstorage.
 
